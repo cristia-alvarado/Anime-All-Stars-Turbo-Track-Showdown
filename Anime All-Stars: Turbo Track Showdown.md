@@ -38,6 +38,8 @@
 ![IMG_5881](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/1490f046-28ff-4425-9e87-79a65a0d6bf1)
 ![IMG_5891](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/186b4e1a-2a4a-46b0-ac6e-5a6bd27063c1)
 ![IMG_5895](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/2ffdb69d-fc53-4b48-94af-c1e72375e082)
+![![IMG_6001](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/3004b627-ec2e-43ba-a3ec-69639c703710)
+
 
 ### Week 1: 
 * Start a Database to organize everything.
