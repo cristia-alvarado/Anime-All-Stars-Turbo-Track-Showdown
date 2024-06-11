@@ -59,7 +59,7 @@
 
 
 ### **Code:**
-|  [Replit Code](https://replit.com/@ca823917/Anime-All-Stars-Turbo-Track-showdown#introscreen.js)     |     [Open Processing Code](https://openprocessing.org/sketch/2295029) | 
+|     [Open Processing Code](https://openprocessing.org/sketch/2295029) | 
 
 ## Database:
 ### Schema SQL: 
