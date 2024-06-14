@@ -32,7 +32,7 @@
 
 ### Sketches/Designs: 
 ![AnimeRacingGameCopy1](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/807e0ff6-9130-4fee-8a9e-75909cda1181) 
-![AnimeControlScreen](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/cd641959-0aee-4a00-88be-e952fce706ae)
+![AnimeControlScreen (1)](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/cdee8d9b-9658-4f3b-b805-76bafac2e276)
 ![DefeatScreenAnime](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/e6679c88-538a-466c-b39d-658c17ca7135)
 ![VictoryAnime](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/296fe85b-d649-4313-9bcd-5139df72ca87)
 ![IMG_5881](https://github.com/cristia-alvarado/Anime-All-Stars-Turbo-Track-Showdown/assets/167561717/1490f046-28ff-4425-9e87-79a65a0d6bf1)
