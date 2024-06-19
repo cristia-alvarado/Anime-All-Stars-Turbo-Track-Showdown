@@ -125,6 +125,107 @@ SELECT * FROM "iTable"
 ### Link For Database:
 [SQL Database](https://www.db-fiddle.com/) 
 
+## Pseudocode
+
+Initialize game setup:
+
+    Create canvas with width and height
+    
+    Load images and sprites
+    
+    Load sounds
+    
+    Setup track elements
+    
+    Setup player and objects
+
+Main game loop:
+    
+    Clear the screen
+    
+    Draw the background
+    
+    Draw the track
+    
+    Draw the player car
+    
+    Draw objects
+    
+    Handle player movement:
+    
+        If LEFT arrow key is pressed, turn player car left
+        
+        If RIGHT arrow key is pressed, turn player car right
+   
+    Update game elements:
+   
+        Update player car position
+      
+        Update object positions
+        
+        Update track elements
+  
+    Check collisions:
+   
+        If player car collides with object or track boundary, handle collision
+  
+    Update game state:
+    
+        If player finishes the race, display win sequence
+     
+        If player loses, display lose sequence
+
+
+Handle player input:
+
+    If key pressed:
+   
+        Process key press
+
+Process key press:
+   
+    If LEFT arrow key is pressed, turn player car left
+  
+    If RIGHT arrow key is pressed, turn player car right
+
+Trigger win sequence:
+ 
+    Display win message
+ 
+    Play win sound
+
+Trigger lose sequence:
+ 
+    Display lose message
+  
+    Play lose sound
+
+Utility functions:
+  
+    Load images and sprites
+    
+    Load sounds
+    
+    Setup track elements
+    
+    Setup player and object
+    
+    Update player car position
+    
+    Update object positions
+    
+    Update track elements
+    
+    Check collisions
+    
+    Handle collision
+
+
+
+
+
+
+
 
 
 
